@@ -1,0 +1,29 @@
+{
+  "name": "sit725-2022-t2-prac5",
+  "version": "1.0.0",
+  "description": "prac 5",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Loliwe",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongodb": "^4.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoliweLoliwe/SIT725-2022-t2-prac5.git"
+  },
+  "keywords": [
+    "prac",
+    "5"
+  ],
+  "bugs": {
+    "url": "https://github.com/LoliweLoliwe/SIT725-2022-t2-prac5/issues"
+  },
+  "homepage": "https://github.com/LoliweLoliwe/SIT725-2022-t2-prac5#readme"
+}
